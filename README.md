@@ -257,7 +257,7 @@ Project Overview
  2.TELECOM CHURN
 Built an end-to-end Telecom Customer Churn Analytics solution using Python, MySQL, and Power BI to analyze customer behavior, identify churn patterns, and generate actionable business insights. The project covers the complete analytics lifecycle including data extraction, cleaning, exploratory analysis, feature engineering, machine learning, and interactive dashboard development.
 
-Business Problem
+TELECOM_CHURN:
 
 Customer churn directly impacts revenue and profitability in the telecom industry. The objective of this project was to analyze customer demographics, service usage patterns, and engagement metrics to identify factors contributing to churn and support data-driven retention strategies.
 
